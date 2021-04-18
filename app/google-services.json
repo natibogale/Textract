@@ -1,0 +1,39 @@
+ {
+  "project_info": {
+    "project_number": "626703370717",
+    "project_id": "textract-d2028",
+    "storage_bucket": "textract-d2028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626703370717:android:7bb8ce6c912c0ec7a70e34",
+        "android_client_info": {
+          "package_name": "com.textract"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626703370717-67hqrk6rhn1a5ebs39ahn4r2945orp3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZJmf75vZ1u0n9dUMldGQ-QTUUYqfm1Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626703370717-67hqrk6rhn1a5ebs39ahn4r2945orp3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
